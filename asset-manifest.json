@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/lawyer/static/css/main.6136496b.css",
-    "main.js": "/lawyer/static/js/main.92ba9ea6.js",
-    "static/js/453.1eee46ae.chunk.js": "/lawyer/static/js/453.1eee46ae.chunk.js",
-    "static/media/document_mp4": "/lawyer/static/media/document_5233690569577892701.6fc4029abb5137dde0dd.mp4",
-    "static/media/123.jpg": "/lawyer/static/media/123.c87fb99ccdda3ee591fd.jpg",
-    "static/media/photo__y.jpg": "/lawyer/static/media/photo_5233690570037859134_y.01e335a269ae7090a464.jpg",
-    "index.html": "/lawyer/index.html",
-    "main.6136496b.css.map": "/lawyer/static/css/main.6136496b.css.map",
-    "main.92ba9ea6.js.map": "/lawyer/static/js/main.92ba9ea6.js.map",
-    "453.1eee46ae.chunk.js.map": "/lawyer/static/js/453.1eee46ae.chunk.js.map"
+    "main.css": "/lexstrategy/static/css/main.2be009f2.css",
+    "main.js": "/lexstrategy/static/js/main.b26faab0.js",
+    "static/js/453.c1b78777.chunk.js": "/lexstrategy/static/js/453.c1b78777.chunk.js",
+    "static/media/123.jpg": "/lexstrategy/static/media/123.c87fb99ccdda3ee591fd.jpg",
+    "static/media/jpg": "/lexstrategy/static/media/5321365833395146140.639a62feee0a4cdeebde.jpg",
+    "index.html": "/lexstrategy/index.html",
+    "main.2be009f2.css.map": "/lexstrategy/static/css/main.2be009f2.css.map",
+    "main.b26faab0.js.map": "/lexstrategy/static/js/main.b26faab0.js.map",
+    "453.c1b78777.chunk.js.map": "/lexstrategy/static/js/453.c1b78777.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6136496b.css",
-    "static/js/main.92ba9ea6.js"
+    "static/css/main.2be009f2.css",
+    "static/js/main.b26faab0.js"
   ]
 }
